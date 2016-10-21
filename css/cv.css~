@@ -269,7 +269,7 @@
 	}
 	
 	section[role=main] h4 strong {
-		color: green;
+		color: black;
 		font-weight: normal;
 	}
 	

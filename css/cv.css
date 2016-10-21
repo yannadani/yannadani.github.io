@@ -1,3 +1,39 @@
+.google{
+  width: 60px;
+  height: 80px;
+  margin: 50px auto;
+  background: rgb(235,233,220); /* Old browsers */
+	background: linear-gradient(to right,  rgba(235,233,220,1) 0%,rgba(228,225,209,1) 100%);
+	border-radius: 5px;
+  border-right: 12px solid #E14D41;
+  border-left: 12px solid #E14D41;
+  position: relative;
+  overflow: hidden;
+  
+  &:after{
+    content: ' ';
+    display: block;
+    border: 12px solid #E14D41;
+    width: 73px;
+    height: 73px;
+    transform: rotate(45deg);
+    position: absolute;
+    top: -70px;
+    left: -18px;
+    box-shadow: 50px 0px #ACABA1;
+  }
+  &:before{
+    content: ' ';
+    display: block;
+    border: 1px solid #ACABA1;
+    width: 73px;
+    height: 73px;
+    transform: rotate(45deg);
+    position: absolute;
+    bottom: -46px;
+    left: 5px;
+  }
+}
 /**********
 /* Grille - 960.gs
 **********/

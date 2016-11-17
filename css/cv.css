@@ -254,6 +254,7 @@
 		
 		margin-top: 0px;
 		position: relative;
+               
  	}
 	
 	section[role=main] h3:after, h3:before {
@@ -302,6 +303,7 @@
 	
 	section[role=main] h4 {
 		margin-bottom: 0px;
+                font-size:  2
 	}
 	
 	section[role=main] h4 strong {
@@ -379,12 +381,12 @@
 	
 	.lieu {
 		background-position: 0 -2px;
-		color: #999;
+		color: green;
 	}
 	
 	.dates {
 		background-position: 0 -22px;
-		color: #999;
+		color: green;
 	}
 	
 	.phone {

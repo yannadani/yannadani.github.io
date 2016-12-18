@@ -303,7 +303,7 @@
 	
 	section[role=main] h4 {
 		margin-bottom: 0px;
-                font-size:  3
+                font-size:  2
 	}
 	
 	section[role=main] h4 strong {

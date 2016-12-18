@@ -31,8 +31,7 @@
 				<hgroup>
 					<h1>Yashas Annadani</h1>
 					<h2>Wanderlust </h2>
-                                   <p><a href="mailto:yashas.annadani@gmail.com"style="color: green">yashas.annadani@gmail.com</a><br>
-                                     <a href="res_short.pdf"style="color: green">Curriculum Vitae</a>
+                                   <p><a href="resume.pdf"style="color: green">Resume</a> | <a href="mailto:yashas.annadani@gmail.com"style="color: green">Contact</a> | <a href="https://www.facebook.com/yashasannadani"style="color:green">Facebook</a>
 				</hgroup>
 
 				<figure>
@@ -56,7 +55,7 @@ In my free time, I like to read novels - especially thrillers like The day of th
 			
 		
 		
-			<!-- Expériences -->
+			<!-- Expériences 
 			<div class="grid_16 Education">
 				<h3>Education</h3>
 				<ul>
@@ -69,7 +68,7 @@ In my free time, I like to read novels - especially thrillers like The day of th
 					
 				</ul>
 			</div>
-		
+		-->
 			<!-- Formations -->
 			<div class="grid_16 Education">
 				<h3>Publications</h3>
@@ -78,10 +77,10 @@ In my free time, I like to read novels - especially thrillers like The day of th
 						<h4><strong>Selfie Detection by Synergy-Constriant Based
 
 Convolutional Neural Network</strong> </h4> <p font-size="1"><strong> Yashas Annadani</strong>, Vijayakrishna Naganoor, Akshay Kumar Jagadish and Krishnan Chemmangat <br>
-						<i>IEEE Signal Image Tehnology and Internet Based Systems (SITIS), 2016</i>
+						<i>IEEE Signal Image Technology and Internet Based Systems (SITIS), 2016</i>
 						
 				<br>		
-<a href="https://arxiv.org/pdf/1611.04357.pdf"style="color: green">[pdf]</a> <a href="https://github.com/yannadani/Selfie-detection"style="color: green">[code]</a><br><br><br></p>
+<a href="https://arxiv.org/pdf/1611.04357.pdf"style="color: green">[paper]</a> <a href="https://github.com/yannadani/Selfie-detection"style="color: green">[code]</a><br><br><br></p>
 
 					</li>
 
@@ -90,7 +89,7 @@ Convolutional Neural Network</strong> </h4> <p font-size="1"><strong> Yashas Ann
 						<i>Arxiv Preprint</i>
 						
 				<br>		
-<a href="https://arxiv.org/pdf/1611.00218v1.pdf"style="color: green">[pdf]</a> <a href="https://github.com/yannadani/action_recognition_3DJoints"style="color: green">[code]</a><br><br><br></p>
+<a href="https://arxiv.org/pdf/1611.00218v1.pdf"style="color: green">[paper]</a> <a href="https://github.com/yannadani/action_recognition_3DJoints"style="color: green">[code]</a><br><br><br></p>
 
 					</li>
 </ul>

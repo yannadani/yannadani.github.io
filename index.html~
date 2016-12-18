@@ -49,8 +49,8 @@
 		
 				<h3>About Me</h3>
 			
-				<p>I'm currently doing my final year undergraduate at <a href="http://www.nitk.ac.in" style="color: green">NITK Surathkal</a>, with a major in Electrical and Electronics Engineering. I am interested in doing research in Computer Vision and Artificial Intelligence. I have previously worked with <a href="http://www.ee.iisc.ac.in/new/people/faculty/soma.biswas/index.html"style="color: green">Prof Soma Biswas</a> at Electrical Department, IISc, Bangalore on Action Recognition from Skeletal Joints of Kinect Sensor. I interned at INRIA, France under <a href="http://www-sop.inria.fr/members/Francois.Bremond/"style="color: green">Francois Bremond</a> and worked on large scale activity recognition from RGBD data using Deep Learning. I am currently doing my bachelor's thesis under the supervision of <a href="http://www.ee.iisc.ac.in/new/people/faculty/soma.biswas/index.html"style="color: green">Prof Soma Biswas</a>, on motion preserving image representation of a video for video analysis tasks like Action recognition. Apart from research in core computer vision and AI, I am also interested in applying Machine Learning and Computer Vision techniques to 'out-of-the-box' problems like Selfie Detection and Personality based Scenario Response Prediction.
-In my free time, I like to read novels - especially thrillers like The day of the Jackal and Killing Floor, and write chunks of prose and poetry, some of which can be found in my <a href="http://www.yashasannadaniblog.wordpress.com"style="color: green">blog</a>. In addition, I like to travel a lot, and hope to discover the marvels across all parts of the globe.  </p>
+				<p>I'm currently doing my final year undergraduate at <a href="http://www.nitk.ac.in" target="_blank"style="color: green">NITK Surathkal</a>, with a major in Electrical and Electronics Engineering. I am interested in doing research in Computer Vision and Artificial Intelligence. I have previously worked with <a href="http://www.ee.iisc.ac.in/new/people/faculty/soma.biswas/index.html"style="color: green"target="_blank">Prof Soma Biswas</a> at Electrical Department, IISc, Bangalore on Action Recognition from Skeletal Joints of Kinect Sensor. I interned at INRIA, France under <a href="http://www-sop.inria.fr/members/Francois.Bremond/"style="color: green"target="_blank">Francois Bremond</a> and worked on large scale activity recognition from RGBD data using Deep Learning. I am currently doing my bachelor's thesis under the supervision of <a href="http://www.ee.iisc.ac.in/new/people/faculty/soma.biswas/index.html"style="color: green"target="_blank">Prof Soma Biswas</a>, on motion preserving image representation of a video for video analysis tasks like Action recognition. Apart from research in core computer vision and AI, I am also interested in applying Machine Learning and Computer Vision techniques to 'out-of-the-box' problems like Selfie Detection and Personality based Scenario Response Prediction.
+In my free time, I like to read novels - especially thrillers like The day of the Jackal and Killing Floor, and write chunks of prose and poetry, some of which can be found in my <a href="http://www.yashasannadaniblog.wordpress.com"style="color: green"target="_blank">blog</a>. In addition, I like to travel a lot, and hope to discover the marvels across all parts of the globe.  </p>
 			</div>
 			
 		
@@ -80,7 +80,7 @@ Convolutional Neural Network</strong> </h4> <p font-size="1"><strong> Yashas Ann
 						<i>IEEE Signal Image Technology and Internet Based Systems (SITIS), 2016</i>
 						
 				<br>		
-<a href="https://arxiv.org/pdf/1611.04357.pdf"style="color: green">[paper]</a> <a href="https://github.com/yannadani/Selfie-detection"style="color: green">[code]</a><br><br><br></p>
+<a href="https://arxiv.org/pdf/1611.04357.pdf"style="color: green"target="_blank">[paper]</a> <a href="https://github.com/yannadani/Selfie-detection"style="color: green"target="_blank">[code]</a><br><br><br></p>
 
 					</li>
 
@@ -89,7 +89,7 @@ Convolutional Neural Network</strong> </h4> <p font-size="1"><strong> Yashas Ann
 						<i>Arxiv Preprint</i>
 						
 				<br>		
-<a href="https://arxiv.org/pdf/1611.00218v1.pdf"style="color: green">[paper]</a> <a href="https://github.com/yannadani/action_recognition_3DJoints"style="color: green">[code]</a><br><br><br></p>
+<a href="https://arxiv.org/pdf/1611.00218v1.pdf"style="color: green"target="_blank">[paper]</a> <a href="https://github.com/yannadani/action_recognition_3DJoints"style="color: green"target="_blank">[code]</a><br><br><br></p>
 
 					</li>
 </ul>
@@ -101,7 +101,7 @@ Convolutional Neural Network</strong> </h4> <p font-size="1"><strong> Yashas Ann
 					</li> -->
 				
 			</div>
-			<!-- Compétences -->
+			<!-- Compétences 
 			<div class="grid_8 competences">
 				<h3>Skills</h3>
 				<ul class="barres">
@@ -112,11 +112,11 @@ Convolutional Neural Network</strong> </h4> <p font-size="1"><strong> Yashas Ann
 					<li data-skills="75">Latex<span style="width: 75%;"></span></li>
 				</ul>
 			</div>
-		
+		-->
 			<!-- Loisirs -->
 			<div class="grid_8 loisirs">
 				<h3>Hobbies</h3>
-				<p><strong>Blogging :</strong> View my blog <a href="http://www.yashasannadaniblog.wordpress.com"style="color: green">here</a></p>
+				<p><strong>Blogging :</strong> View my blog <a href="http://www.yashasannadaniblog.wordpress.com"target="_blank"style="color: green">here</a></p>
 				<p><strong>Reading :</strong> Well, Fiction to start with. Lee Child and Fredrick Forsyth are my fav!</p>
 				<p><strong>Travel :</strong> Always looking for an adventurous voyage! </p>
 			</div>
@@ -134,7 +134,7 @@ Convolutional Neural Network</strong> </h4> <p font-size="1"><strong> Yashas Ann
                                          Srinivasnagar, Surathkal<br>
                                          Mangalore 575025<br>
 					<a href="mailto:yashas.annadani@gmail.com"style="color: green">yashas.annadani@gmail.com</a><br>
-					<a href="http://www.yashasannadaniblog.wordpress.com"style="color: green">My Blog</a></p>
+					<a href="http://www.yashasannadaniblog.wordpress.com"style="color: green"target="_blank">My Blog</a></p>
 			
 				</ul>
 			</div>

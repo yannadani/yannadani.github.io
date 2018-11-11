@@ -1,29 +1,8 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: /~yannadani
 
-highlighter: rouge
-markdown: kramdown
-rdiscount:
-  extensions: [smart]
-permalink: /:title.html
-paginate: 5
-gems: [jekyll-paginate]
-port: 3000
-safe: true
-
-
-
-url: https://yannadani.github.io/
-baseurl: /
-title: Yashas Annadani
-author: Yashas Annadani
-description: Personal Blog and Resume
-avatar: profile.jpg
-email: yashas.annadani@gmail.com
-github: yannadani # username
-twitter: yashasannadani
-linkedin: yashasannadani
-#disqus: username
-google_analytics: UA-89293193-1
-
-
-# needed for travis-ci build
-exclude: [vendor]
+collections:
+  projects:
+    output: true

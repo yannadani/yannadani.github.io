@@ -1,0 +1,30 @@
+experiences:
+- place: "ETH Zürich"
+  time: "2018 - now"
+  title: "M.Sc. Student"
+  subtitle: "Electrical Engineering and Information Technology"
+  category: "school"
+
+- place: "IIIT Hyderabad"
+  time: "2017-2018"
+  title: "Research Fellow"
+  subtitle: "CVIT"
+  category: "work"
+
+- place: "NITK Surathkal"
+  time: "2013-2017"
+  title: "B.Tech Student"
+  subtitle: "Electrical and Electronics Engineering"
+  category: "school"
+
+- place: "INRIA"
+  time: "Summer 2016"
+  title: "Research Intern"
+  subtitle: "STARS Team"
+  category: "work"
+
+- place: "Indian Institute of Science"
+  time: "Summer 2015"
+  title: "Research Intern"
+  subtitle: "Image Analysis and Computer Vision Lab, Department of Electrical Engineering"
+  category: "work"

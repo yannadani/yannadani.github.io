@@ -1,0 +1,23 @@
+papers:
+
+  - title: "Preserving Semantic Relations for Zero-Shot Learning"
+    authors: "<b>Yashas Annadani</b>, Soma Biswas"
+    venue: "IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2018"
+    paper_pdf: "/assets/publications/2018_cvpr/paper.pdf"
+    poster: "/assets/publications/2018_cvpr/poster.pdf"
+    selected: y
+
+  - title: "Growbit: Incremental Hashing for Cross-Modal Retrieval"
+    authors: "Devraj Mandal, <b> Yashas Annadani</b>, Soma Biswas"
+    venue: "Asian Conference on Computer Vision (ACCV), 2018"
+    paper_pdf: "/assets/publications/2018_accv/paper.pdf"
+    selected: y
+
+  - title: "Augment and Adapt: A Simple Approach to Image Tampering Detection"
+    authors: "<b>Yashas Annadani</b>, C.V. Jawahar"
+    venue: "IEEE International Conference on Pattern Recognition (ICPR), 2018"
+    paper_pdf: "/assets/publications/2018_icpr/paper.pdf"
+    poster: "/assets/publications/2018_icpr/poster.pdf"    
+    selected: y
+
+ 

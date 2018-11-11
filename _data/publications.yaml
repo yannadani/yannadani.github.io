@@ -5,6 +5,7 @@ papers:
     venue: "IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2018"
     paper_pdf: "/assets/publications/2018_cvpr/paper.pdf"
     poster: "/assets/publications/2018_cvpr/poster.pdf"
+    video: "https://www.youtube.com/watch?v=f3ciq5w0thQ"
     selected: y
 
   - title: "Growbit: Incremental Hashing for Cross-Modal Retrieval"

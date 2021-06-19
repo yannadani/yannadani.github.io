@@ -1,4 +1,16 @@
 papers:
+  - title: "Variational Causal Networks: Approximate Bayesian Inference over Causal Structures"
+    authors: "<b>Yashas Annadani</b>, Jonas Rothfuss, Alexandre Lacoste, Nino Scherrer, Anirudh Goyal, Yoshua Bengio, Stefan Bauer"
+    venue: "arxiv preprint: arXiv:2106.07635. Also <span style="color:red">Oral</span> at KDD Workshop on Bayesian causal inference for real world interactive systems, 2021"
+    paper_pdf: "https://arxiv.org/pdf/2106.07635.pdf"
+    selected: y
+
+  - title: "Structure by Architecture: Disentangled Representations without Regularization"
+    authors: "Felix Leeb, Giulia Lanzillotta, <b>Yashas Annadani</b>, Michel Besserve, Stefan Bauer, Bernhard Schölkopf"
+    venue: "arxiv preprint: arXiv:2006.07796"
+    paper_pdf: "https://arxiv.org/pdf/2006.07796.pdf"
+    selected: y
+
 
   - title: "Preserving Semantic Relations for Zero-Shot Learning"
     authors: "<b>Yashas Annadani</b>, Soma Biswas"

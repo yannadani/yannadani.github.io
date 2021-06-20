@@ -1,7 +1,7 @@
 papers:
   - title: "Variational Causal Networks: Approximate Bayesian Inference over Causal Structures"
     authors: "<b>Yashas Annadani</b>, Jonas Rothfuss, Alexandre Lacoste, Nino Scherrer, Anirudh Goyal, Yoshua Bengio, Stefan Bauer"
-    venue: "arxiv preprint: arXiv:2106.07635. Also <span style="color:red">Oral</span> at KDD Workshop on Bayesian causal inference for real world interactive systems, 2021"
+    venue: "arxiv preprint: arXiv:2106.07635. Also <b>Oral</b> at KDD Workshop on Bayesian causal inference for real world interactive systems, 2021"
     paper_pdf: "https://arxiv.org/pdf/2106.07635.pdf"
     selected: y
 

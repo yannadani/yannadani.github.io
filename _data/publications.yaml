@@ -3,6 +3,7 @@ papers:
     authors: "<b>Yashas Annadani</b>, Jonas Rothfuss, Alexandre Lacoste, Nino Scherrer, Anirudh Goyal, Yoshua Bengio, Stefan Bauer"
     venue: "arxiv preprint: arXiv:2106.07635. Also <b>Oral</b> at KDD Workshop on Bayesian causal inference for real world interactive systems, 2021"
     paper_pdf: "https://arxiv.org/pdf/2106.07635.pdf"
+    code: "https://github.com/yannadani/vcn_pytorch"
     selected: y
 
   - title: "Structure by Architecture: Disentangled Representations without Regularization"

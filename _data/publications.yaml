@@ -1,4 +1,11 @@
 papers:
+  - title: "Interventions, Where and How? Experimental Design for Causal Models at Scale"
+    authors: "Panagiotis Tigas<sup>*</sup>, <b>Yashas Annadani<sup>*</sup></b>, Andrew Jesson, Bernhard Schölkopf, Yarin Gal, Stefan Bauer"
+    venue: "In advances of Neural Information Processing Systems (NeurIPS), 2022"
+    paper_pdf: "https://arxiv.org/pdf/2203.02016.pdf"
+    code: "https://github.com/yannadani/cbed"
+    selected: y
+  
   - title: "Learning Neural Causal Models with Active Interventions"
     authors: "Nino Scherrer, Olexa Bilaniuk, <b>Yashas Annadani</b>, Anirudh Goyal, Patrick Schwab, Bernhard Schölkopf, Michael Curtis Mozer, Yoshua Bengio, Stefan Bauer, Nan Rosemary Ke"
     venue: "arxiv preprint: arXiv:2109.02429, 2021"
@@ -11,12 +18,6 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2106.07635.pdf"
     code: "https://github.com/yannadani/vcn_pytorch"
     selected: y
-
-  - title: "Structure by Architecture: Disentangled Representations without Regularization"
-    authors: "Felix Leeb, Giulia Lanzillotta, <b>Yashas Annadani</b>, Michel Besserve, Stefan Bauer, Bernhard Schölkopf"
-    venue: "arxiv preprint: arXiv:2006.07796"
-    paper_pdf: "https://arxiv.org/pdf/2006.07796.pdf"
-    selected: n
 
 
   - title: "Preserving Semantic Relations for Zero-Shot Learning"

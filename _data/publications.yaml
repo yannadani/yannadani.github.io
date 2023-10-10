@@ -1,4 +1,11 @@
 papers:
+  - title: "Differentiable Multi-Target Causal Bayesian Experimental Design"
+    authors: "<b>Yashas Annadani<sup>*</sup></b>, Panagiotis Tigas<sup>*</sup>, Desi R. Ivanova, Andrew Jesson, Yarin Gal, Adam Foster^, Stefan Bauer^"
+    venue: "In International Conference on Machine Learning (ICML), 2022=3"
+    paper_pdf: "https://arxiv.org/pdf/2302.10607.pdf"
+    code: "https://github.com/yannadani/DiffCBED"
+    selected: y
+  
   - title: "Interventions, Where and How? Experimental Design for Causal Models at Scale"
     authors: "Panagiotis Tigas<sup>*</sup>, <b>Yashas Annadani<sup>*</sup></b>, Andrew Jesson, Bernhard Schölkopf, Yarin Gal, Stefan Bauer"
     venue: "In advances of Neural Information Processing Systems (NeurIPS), 2022"
@@ -8,13 +15,13 @@ papers:
   
   - title: "Learning Neural Causal Models with Active Interventions"
     authors: "Nino Scherrer, Olexa Bilaniuk, <b>Yashas Annadani</b>, Anirudh Goyal, Patrick Schwab, Bernhard Schölkopf, Michael Curtis Mozer, Yoshua Bengio, Stefan Bauer, Nan Rosemary Ke"
-    venue: "arxiv preprint: arXiv:2109.02429, 2021"
+    venue: "arxiv preprint: arXiv:2109.02429. NeurIPS workshop Causal Inference & Machine Learning: Why now? (WHY-21), 2021 "
     paper_pdf: "https://arxiv.org/pdf/2109.02429.pdf"
     selected: y
 
   - title: "Variational Causal Networks: Approximate Bayesian Inference over Causal Structures"
     authors: "<b>Yashas Annadani</b>, Jonas Rothfuss, Alexandre Lacoste, Nino Scherrer, Anirudh Goyal, Yoshua Bengio, Stefan Bauer"
-    venue: "arxiv preprint: arXiv:2106.07635. Also <b>Oral</b> at KDD Workshop on Bayesian causal inference for real world interactive systems, 2021"
+    venue: "arxiv preprint: arXiv:2106.07635. <b>Oral</b> at KDD Workshop on Bayesian causal inference for real world interactive systems, 2021"
     paper_pdf: "https://arxiv.org/pdf/2106.07635.pdf"
     code: "https://github.com/yannadani/vcn_pytorch"
     selected: y

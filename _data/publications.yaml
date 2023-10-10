@@ -1,4 +1,17 @@
 papers:
+  
+  - title: "Differentiable Multi-Target Causal Bayesian Experimental Design"
+    authors: "<b>Yashas Annadani<sup>*</sup></b>, Nick Pawlowski, Joel Jennings, Stefan Bauer, Cheng Zhang, Wenbo Gong<sup>*<\sup>"
+    venue: "In advances of Neural Information Processing Systems (NeurIPS), 2023"
+    paper_pdf: "https://arxiv.org/pdf/2307.13917.pdf"
+    selected: y
+
+  - title: "Trust Your Gradients: Gradient-based Intervention Targeting for Causal Discovery"
+    authors: "Mateusz Olko<sup>*</sup>, Michał Zajac<sup>*</sup>, Aleksandra Nowak<sup>*</sup>, Nino Scherrer, <b>Yashas Annadani</b>, Stefan Bauer, Łukasz Kucinski, Piotr Miłos"
+    venue: "In advances of Neural Information Processing Systems (NeurIPS), 2023"
+    paper_pdf: "https://arxiv.org/pdf/2211.13715.pdf"
+    selected: n
+
   - title: "Differentiable Multi-Target Causal Bayesian Experimental Design"
     authors: "<b>Yashas Annadani<sup>*</sup></b>, Panagiotis Tigas<sup>*</sup>, Desi R. Ivanova, Andrew Jesson, Yarin Gal, Adam Foster^, Stefan Bauer^"
     venue: "In International Conference on Machine Learning (ICML), 2023"
@@ -6,6 +19,12 @@ papers:
     code: "https://github.com/yannadani/DiffCBED"
     selected: y
   
+  - title: "Structure by Architecture: Structured Representations without Regularization. "
+    authors: "Felix Leeb, Giulia Lanzillotta, <b>Yashas Annadani</b>, Michel Besserve, Stefan Bauer, Bernhard Schölkopf"
+    venue: "In International Conference on Learning Representations (ICLR), 2023"
+    paper_pdf: "https://arxiv.org/pdf/2006.07796.pdf"
+    selected: n
+
   - title: "Interventions, Where and How? Experimental Design for Causal Models at Scale"
     authors: "Panagiotis Tigas<sup>*</sup>, <b>Yashas Annadani<sup>*</sup></b>, Andrew Jesson, Bernhard Schölkopf, Yarin Gal, Stefan Bauer"
     venue: "In advances of Neural Information Processing Systems (NeurIPS), 2022"

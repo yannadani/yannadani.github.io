@@ -1,7 +1,7 @@
 papers:
   - title: "Differentiable Multi-Target Causal Bayesian Experimental Design"
     authors: "<b>Yashas Annadani<sup>*</sup></b>, Panagiotis Tigas<sup>*</sup>, Desi R. Ivanova, Andrew Jesson, Yarin Gal, Adam Foster^, Stefan Bauer^"
-    venue: "In International Conference on Machine Learning (ICML), 2022=3"
+    venue: "In International Conference on Machine Learning (ICML), 2023"
     paper_pdf: "https://arxiv.org/pdf/2302.10607.pdf"
     code: "https://github.com/yannadani/DiffCBED"
     selected: y

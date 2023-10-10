@@ -34,7 +34,7 @@ papers:
   
   - title: "Learning Neural Causal Models with Active Interventions"
     authors: "Nino Scherrer, Olexa Bilaniuk, <b>Yashas Annadani</b>, Anirudh Goyal, Patrick Schwab, Bernhard Schölkopf, Michael Curtis Mozer, Yoshua Bengio, Stefan Bauer, Nan Rosemary Ke"
-    venue: "arxiv preprint: arXiv:2109.02429. NeurIPS workshop Causal Inference & Machine Learning: Why now? (WHY-21), 2021 "
+    venue: "arxiv preprint: arXiv:2109.02429. In NeurIPS workshop Causal Inference & Machine Learning: Why now? (WHY-21), 2021 "
     paper_pdf: "https://arxiv.org/pdf/2109.02429.pdf"
     selected: y
 
@@ -48,7 +48,7 @@ papers:
 
   - title: "Preserving Semantic Relations for Zero-Shot Learning"
     authors: "<b>Yashas Annadani</b>, Soma Biswas"
-    venue: "IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2018"
+    venue: "In IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2018"
     paper_pdf: "/assets/publications/2018_cvpr/paper.pdf"
     poster: "/assets/publications/2018_cvpr/poster.pdf"
     video: "https://www.youtube.com/watch?v=f3ciq5w0thQ"
@@ -56,13 +56,13 @@ papers:
 
   - title: "Growbit: Incremental Hashing for Cross-Modal Retrieval"
     authors: "Devraj Mandal, <b> Yashas Annadani</b>, Soma Biswas"
-    venue: "Asian Conference on Computer Vision (ACCV), 2018"
+    venue: "In Asian Conference on Computer Vision (ACCV), 2018"
     paper_pdf: "/assets/publications/2018_accv/paper.pdf"
     selected: y
 
   - title: "Augment and Adapt: A Simple Approach to Image Tampering Detection"
     authors: "<b>Yashas Annadani</b>, C.V. Jawahar"
-    venue: "IEEE International Conference on Pattern Recognition (ICPR), 2018"
+    venue: "In IEEE International Conference on Pattern Recognition (ICPR), 2018"
     paper_pdf: "/assets/publications/2018_icpr/paper.pdf"
     poster: "/assets/publications/2018_icpr/poster.pdf"    
     selected: n

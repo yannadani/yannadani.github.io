@@ -1,5 +1,4 @@
 papers:
-  
   - title: "Differentiable Multi-Target Causal Bayesian Experimental Design"
     authors: "<b>Yashas Annadani<sup>*</sup></b>, Nick Pawlowski, Joel Jennings, Stefan Bauer, Cheng Zhang, Wenbo Gong<sup>*<\sup>"
     venue: "In advances of Neural Information Processing Systems (NeurIPS), 2023"

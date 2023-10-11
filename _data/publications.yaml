@@ -6,7 +6,7 @@ papers:
     selected: y
 
   - title: "Trust Your Gradients: Gradient-based Intervention Targeting for Causal Discovery"
-    authors: "Mateusz Olko<sup>*</sup>, Michał Zajac<sup>*</sup>, Aleksandra Nowak<sup>*</sup>, Nino Scherrer, <b>Yashas Annadani</b>, Stefan Bauer, Łukasz Kucinski, Piotr Miłos"
+    authors: "Mateusz Olko<sup>*</sup>, Michal Zajac<sup>*</sup>, Aleksandra Nowak<sup>*</sup>, Nino Scherrer, <b>Yashas Annadani</b>, Stefan Bauer, Lukasz Kucinski, Piotr Milos"
     venue: "In advances of Neural Information Processing Systems (NeurIPS), 2023"
     paper_pdf: "https://arxiv.org/pdf/2211.13715.pdf"
     selected: n

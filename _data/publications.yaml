@@ -1,5 +1,5 @@
 papers:
-  - title: "Differentiable Multi-Target Causal Bayesian Experimental Design"
+  - title: "BayesDAG: Gradient-Based Posterior Sampling for Causal Discovery"
     authors: "<b>Yashas Annadani<sup>*</sup></b>, Nick Pawlowski, Joel Jennings, Stefan Bauer, Cheng Zhang, Wenbo Gong<sup>*<\sup>"
     venue: "In advances of Neural Information Processing Systems (NeurIPS), 2023"
     paper_pdf: "https://arxiv.org/pdf/2307.13917.pdf"

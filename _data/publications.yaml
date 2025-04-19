@@ -62,17 +62,4 @@ papers:
     video: "https://www.youtube.com/watch?v=f3ciq5w0thQ"
     selected: y
 
-  - title: "Growbit: Incremental Hashing for Cross-Modal Retrieval"
-    authors: "Devraj Mandal, <b> Yashas Annadani</b>, Soma Biswas"
-    venue: "In Asian Conference on Computer Vision (ACCV), 2018"
-    paper_pdf: "/assets/publications/2018_accv/paper.pdf"
-    selected: y
-
-  - title: "Augment and Adapt: A Simple Approach to Image Tampering Detection"
-    authors: "<b>Yashas Annadani</b>, C.V. Jawahar"
-    venue: "In IEEE International Conference on Pattern Recognition (ICPR), 2018"
-    paper_pdf: "/assets/publications/2018_icpr/paper.pdf"
-    poster: "/assets/publications/2018_icpr/poster.pdf"    
-    selected: n
-
  

@@ -1,8 +1,17 @@
 papers:
+
+  - title: "Amortized Active Causal Induction with Deep Reinforcement Learning"
+    authors: "<b>Yashas Annadani</b>, Panagiotis Tigas, Stefan Bauer, Adam Foster"
+    venue: "In advances of Neural Information Processing Systems (NeurIPS), 2024"
+    paper_pdf: "https://arxiv.org/pdf/2405.16718.pdf"
+    code: "https://openreview.net/attachment?id=7AXY27kdNH&name=supplementary_material"
+    selected: y
+
   - title: "BayesDAG: Gradient-Based Posterior Sampling for Causal Discovery"
     authors: "<b>Yashas Annadani<sup>*</sup></b>, Nick Pawlowski, Joel Jennings, Stefan Bauer, Cheng Zhang, Wenbo Gong<sup>*</sup>"
     venue: "In advances of Neural Information Processing Systems (NeurIPS), 2023"
     paper_pdf: "https://arxiv.org/pdf/2307.13917.pdf"
+    code: "https://github.com/microsoft/Project-BayesDAG"
     selected: y
 
   - title: "Trust Your Gradients: Gradient-based Intervention Targeting for Causal Discovery"
